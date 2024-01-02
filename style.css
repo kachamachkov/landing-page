@@ -1,3 +1,6 @@
-.header{
-  background-color: lightblue;
+.header-container-1{
+  background-color: #1f2937;
+  color: #f9faf8;
+  display: flex;
+  justify-content: space-evenly;
 }
