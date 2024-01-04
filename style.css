@@ -101,9 +101,9 @@ button {
 
 }
 
-
+/* 4 */
 .quote{
-	font-size: 36px;
+	font-size: 24px;
 	font-style: italic;
 	color: #1f2837;
 
@@ -112,4 +112,27 @@ button {
 	color: #1f2837;
 	font-weight: bold;
 	align-self: flex-end;
+	font-size: 16px;
+}
+
+.section4{
+	padding: 88px 111px;
+}
+
+.call-action{
+	background-color: #3882f6;
+	border-radius: 4px;
+	color: #f9faf8;
+	display: flex;
+	padding: 33px;
+	justify-content: space-around;
+}
+
+.call-action-button{
+	background-color: #3882f6;
+	color: white;
+	padding: 5px 20px;
+	border-radius: 8px;
+	border: 2px solid white;
+
 }
